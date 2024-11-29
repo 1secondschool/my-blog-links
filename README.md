@@ -3,15 +3,15 @@ This repository contains all the backlinks I have created for my blog.
 
 ## Websites Used:
 
-- [Justlanded](https://www.justlanded.com/)
+- [Justlanded]([https://www.justlanded.com/](https://list.ly/settings))
   - **Backlink added under the "Technology" category.**
   - **Purpose:** To improve domain authority by targeting a relevant niche.
 
-- [Crunchbase](https://www.crunchbase.com/)
+- [Crunchbase]([https://www.crunchbase.com/](https://www.crunchbase.com/person/md-ismail-hosen-3d45))
   - **Backlink added under the "Startup" category.**
   - **Purpose:** To gain visibility among technology startups and increase referral traffic.
 
-- [ProvenExpert](https://www.provenexpert.com/)
+- [ProvenExpert]([https://www.provenexpert.com/](https://www.provenexpert.com/en-us/1-second-school/?mode=preview))
   - **Backlink added under the "Business Services" category.**
   - **Purpose:** To target business professionals and enhance brand credibility.
 
