@@ -11,7 +11,7 @@ This repository contains all the backlinks I have created for my blog.
   - **Backlink added under the "Startup" category.**
   - **Purpose:** To gain visibility among technology startups and increase referral traffic.
 
-- [ProvenExpert](https://www.provenexpert.com/)
+- [ProvenExpert](https://www.provenexpert.com/en-us/1-second-school/?mode=preview)
   - **Backlink added under the "Business Services" category.**
   - **Purpose:** To target business professionals and enhance brand credibility.
 
